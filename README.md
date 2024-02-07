@@ -24,6 +24,12 @@ Este proyecto es un simulador simple en Python utilizando la biblioteca Pygame. 
 ### Contribuir
 ¡Siéntete libre de contribuir al proyecto! Puedes hacerlo a través de las siguientes maneras:
 - Creando problemas (issues) para informar de errores o proponer mejoras.
+
+## Contributors
+
+- [ Francisco Vilahermosa @franbucho ](https://github.com/Franbucho)
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
 - Enviando solicitudes de extracción (pull requests) para corregir problemas o agregar nuevas características.
 
 ### Agradecimientos
